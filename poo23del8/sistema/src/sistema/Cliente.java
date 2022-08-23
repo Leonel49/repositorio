@@ -1,0 +1,12 @@
+package sistema;
+
+public class Cliente extends Persona {
+	private int id_cliente;
+	private int contraseña;
+	
+	public Cliente() {
+		
+	}
+	
+	
+}

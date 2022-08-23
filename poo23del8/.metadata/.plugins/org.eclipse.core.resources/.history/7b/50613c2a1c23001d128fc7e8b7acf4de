@@ -1,0 +1,15 @@
+package sistema;
+
+public class Persona {
+	private String DNI;
+	private String nombre;
+
+	public Persona(String dNI, String nombre) {
+		
+		DNI = dNI;
+		this.nombre = nombre;
+		System.out.println("Me cree soy una persona");
+	}
+	
+	
+}
